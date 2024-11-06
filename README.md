@@ -19,23 +19,23 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,solidity,assembly&perline=6" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,solidity&perline=6" height="40px"/>
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=5" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,react&perline=4" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=html,css,react&perline=3" height="40px"/>
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,mariadb&perline=2" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,mariadb&perline=5" height="40px"/>
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,bash,powershell,git&perline=9" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,bash,powershell,git&perline=7" height="40px"/>
    <br/>
    <b>Cloud Infra & DevOps</b>
    
