@@ -31,7 +31,7 @@ Welcome to my profile! Here's a glimpse into who I am:
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,mariadb&perline=5" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=5" height="40px"/>
    <br/>
    <b>Databases</b>
    <br/><br/>
