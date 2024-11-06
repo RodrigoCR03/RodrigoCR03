@@ -3,7 +3,7 @@
 
 Welcome to my profile! Here's a glimpse into who I am:
 
-- 🌱 I'm currently pursuing my MSc in Computer Science and Engineering, Specializing in Cybersecurity at [FCUL](https://ciencias.ulisboa.pt/)
+- 🌱 I'm currently pursuing my MSc in Computer Science and Engineering, specializing in Cybersecurity at [FCUL](https://ciencias.ulisboa.pt/)
 - 🎓 I hold a BSc in Eletronics, Telecomunications and Computer Engineering from [ISEL](https://www.isel.pt/en)
 - 🔬 My research interests encompass `Cybersecurity`, `Blockchain` and `Distributed Systems`
 - 🎉 I find joy in `Travel✈️`, `Reading📖` and staying active through `Workouts💪`
