@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Rodrigo Rodrigues!</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=print(%22Hello+World!%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=print(%22I'm Rodrigo Rodrigues!%22))](https://git.io/typing-svg)
 
 ## 📌 About Me
 
@@ -6,7 +7,7 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 - 🌱 I'm currently pursuing my MSc in  Computer Science and Engineering Student at FCUL
 - 🎓 I hold a BSc in Eletronics, Telecomunications and Computer Engineering from [ISEL](https://www.isel.pt/en)
-- 🔬 My research interests encompass `Cybersecurity`
+- 🔬 My research interests encompass `Cybersecurity`, `Blockchain` and `Distributed Systems`
 - 💬 Feel free to reach out to me for any questions or discussions related to `Full Stack Development🚀`
 - 🎉 I find joy in `Travel✈️`, `Reading📖` and staying active through `Workouts💪`
 
@@ -20,23 +21,23 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,solidity&perline=6" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,solidity,assembly&perline=6" height="40px"/>
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&perline=5" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=5" height="40px"/>
    <br/>
    <b>Backend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=html,css,react,remix&perline=4" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=html,css,react&perline=4" height="40px"/>
    <br/>
    <b>Frontend Development</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=mysqp,postgres,firebase,mongodb&perline=2" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,mariadb&perline=2" height="40px"/>
    <br/>
    <b>Databases</b>
    <br/><br/>
-   <img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git&perline=9" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,bash,powershell,git&perline=9" height="40px"/>
    <br/>
    <b>Cloud Infra & DevOps</b>
    
