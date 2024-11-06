@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=print(%22Hello+World!%22))](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=print(%22I'm Rodrigo Rodrigues!%22))](https://git.io/typing-svg)
-
 ## 📌 About Me
 
 Welcome to my profile! Here's a glimpse into who I am:
