@@ -18,7 +18,7 @@ Welcome to my profile! Here's a glimpse into who I am:
 
 <div align="center">
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=c,c++,java,python,js,ts,solidity&perline=6" height="40px"/>
+   <img src="https://skillicons.dev/icons?i=c,c++,java,python,js,ts,solidity&perline=7" height="40px"/>
    <br/>
    <b>Programming Languages</b>
    <br/><br/>
